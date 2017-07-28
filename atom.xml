@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-30T15:27:50.000Z</updated>
+  <updated>2017-07-28T17:03:26.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>to the moon</title>
+    <link href="http://yoursite.com/2017/07/29/ToTheMoon/"/>
+    <id>http://yoursite.com/2017/07/29/ToTheMoon/</id>
+    <published>2017-07-28T16:00:23.000Z</published>
+    <updated>2017-07-28T17:03:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="误入"><a href="#误入" class="headerlink" title="误入"></a>误入</h3><p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=4405800&auto=1&height=66"></iframe><br>    游戏讲述了一个临死的老人 John请求人生构建公司,完成自己登上月球的愿望. 我下意识的想到的是 We Choose To Go To The Moo. 登上月球一直以来是和雄心壮志联系在一起的, 毕竟这是一个目前技术上一个难以完成的目标.<br>    游戏中的人生构建的原理是, 用机器读取改变者的记忆, 工作人员分析记忆. 比如游戏中, 工作人员需要知道老人为什么想要登上月球, 这个愿望的出发点是什么? 然后需要给他幼年的记忆中这种愿望进行强化, 然后用机器模拟出新的记忆人生, 最后灌注在老人的大脑里.<br>    我自己感觉这是一个非常有趣的设定, 毕竟游戏一开始就已经确立愿望实现的虚假性. 记忆与人生到底有什么区别呢? 其实之前我也曾想过这个问题, 如果某一段经历只有A 和 B 知道, 是否当 B 完全忘记这段经历后, 他们共同完成了经历就消失了呢? A 如何证明自己的记忆是真实的呢. 那些精神病人错乱的记忆到底是不是另外一种人生呢?<br>    <img src="https://user-images.githubusercontent.com/11942909/28727755-915ab48c-73f8-11e7-9944-30a063f4bb68.png" alt="image"><br>    <a href="https://zhihu.com/question/20712730/answer/17465923" target="_blank" rel="external">剧情链接</a></p>
+<pre><code>多年前的承诺 -- 如果我们忘记,就去月球上见面. 临死前, 虽然丧失了记忆却没有忘记彼此.
+</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;误入&quot;&gt;&lt;a href=&quot;#误入&quot; class=&quot;headerlink&quot; title=&quot;误入&quot;&gt;&lt;/a&gt;误入&lt;/h3&gt;&lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; w
+    
+    </summary>
+    
+      <category term="游戏" scheme="http://yoursite.com/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+      <category term="瞎想" scheme="http://yoursite.com/tags/%E7%9E%8E%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>六四的思考</title>
